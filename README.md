@@ -9,7 +9,7 @@ This is a great way to create a system that uses sensors and other devices with 
 
 Please go to "PowerApps Application with NFC Reader.pptx" for explanation and I am.
 
-
+##
 
 de:code 2020 Microsoft MVP パーソナル スポンサー　サンプルプログラムです。
 
